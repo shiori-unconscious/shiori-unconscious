@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [exciting personal projects](https://github.com/shioko-chan)
 - 🌱 Always learning and exploring new technologies in **robotics**, **BCI (EEG/Signal Processing)**, **web development** and **machine learning**
 - 💬 Ask me anything about **C++, Rust, JavaScript, Python**
-- 📫 Reach me through email: `mementototomori@gmail.com`
+- 📫 Reach me through email: `hliu2357@gmail.com`
 - 😄 Pronouns: he/him
 
 ---
